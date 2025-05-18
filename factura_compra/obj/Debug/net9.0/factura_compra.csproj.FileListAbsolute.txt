@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\bin\Debug\net9.0\factura_compra.exe
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\bin\Debug\net9.0\factura_compra.deps.json
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\bin\Debug\net9.0\factura_compra.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\bin\Debug\net9.0\factura_compra.dll
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\bin\Debug\net9.0\factura_compra.pdb
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\factura_compra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\factura_compra.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\factura_compra.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\factura_compra.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\factura_compra.dll
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\refint\factura_compra.dll
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\factura_compra.pdb
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\factura_compra.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\factura_compra\obj\Debug\net9.0\ref\factura_compra.dll

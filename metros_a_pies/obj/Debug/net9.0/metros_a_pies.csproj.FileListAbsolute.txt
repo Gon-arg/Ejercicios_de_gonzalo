@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\bin\Debug\net9.0\metros_a_pies.exe
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\bin\Debug\net9.0\metros_a_pies.deps.json
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\bin\Debug\net9.0\metros_a_pies.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\bin\Debug\net9.0\metros_a_pies.dll
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\bin\Debug\net9.0\metros_a_pies.pdb
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\metros_a_pies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\metros_a_pies.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\metros_a_pies.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\metros_a_pies.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\metros_a_pies.dll
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\refint\metros_a_pies.dll
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\metros_a_pies.pdb
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\metros_a_pies.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\metros_a_pies\obj\Debug\net9.0\ref\metros_a_pies.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tipo_de_triangulo/1.0.0": {
+        "runtime": {
+          "tipo_de_triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tipo_de_triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

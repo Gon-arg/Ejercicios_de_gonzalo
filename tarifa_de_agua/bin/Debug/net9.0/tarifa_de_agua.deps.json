@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "tarifa_de_agua/1.0.0": {
+        "runtime": {
+          "tarifa_de_agua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tarifa_de_agua/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "divisores_de_un_numero_positivo/1.0.0": {
+        "runtime": {
+          "divisores_de_un_numero_positivo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "divisores_de_un_numero_positivo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\bin\Debug\net9.0\local_ropa.exe
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\bin\Debug\net9.0\local_ropa.deps.json
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\bin\Debug\net9.0\local_ropa.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\bin\Debug\net9.0\local_ropa.dll
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\bin\Debug\net9.0\local_ropa.pdb
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\local_ropa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\local_ropa.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\local_ropa.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\local_ropa.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\local_ropa.dll
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\refint\local_ropa.dll
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\local_ropa.pdb
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\local_ropa.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\local_ropa\obj\Debug\net9.0\ref\local_ropa.dll

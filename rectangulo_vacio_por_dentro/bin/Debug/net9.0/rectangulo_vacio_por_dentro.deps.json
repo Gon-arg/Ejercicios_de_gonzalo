@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "rectangulo_vacio_por_dentro/1.0.0": {
+        "runtime": {
+          "rectangulo_vacio_por_dentro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rectangulo_vacio_por_dentro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

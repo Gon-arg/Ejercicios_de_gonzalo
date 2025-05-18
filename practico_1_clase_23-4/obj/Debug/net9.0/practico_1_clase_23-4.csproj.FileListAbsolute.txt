@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\bin\Debug\net9.0\practico_1_clase_23-4.exe
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\bin\Debug\net9.0\practico_1_clase_23-4.deps.json
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\bin\Debug\net9.0\practico_1_clase_23-4.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\bin\Debug\net9.0\practico_1_clase_23-4.dll
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\bin\Debug\net9.0\practico_1_clase_23-4.pdb
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\practico_1_clase_23-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\practico_1_clase_23-4.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\practico_1_clase_23-4.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\practico_1_clase_23-4.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\practico_1_clase_23-4.dll
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\refint\practico_1_clase_23-4.dll
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\practico_1_clase_23-4.pdb
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\practico_1_clase_23-4.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\practico_1_clase_23-4\obj\Debug\net9.0\ref\practico_1_clase_23-4.dll

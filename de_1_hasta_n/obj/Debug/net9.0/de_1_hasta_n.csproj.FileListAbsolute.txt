@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\bin\Debug\net9.0\de_1_hasta_n.exe
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\bin\Debug\net9.0\de_1_hasta_n.deps.json
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\bin\Debug\net9.0\de_1_hasta_n.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\bin\Debug\net9.0\de_1_hasta_n.dll
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\bin\Debug\net9.0\de_1_hasta_n.pdb
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\de_1_hasta_n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\de_1_hasta_n.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\de_1_hasta_n.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\de_1_hasta_n.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\de_1_hasta_n.dll
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\refint\de_1_hasta_n.dll
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\de_1_hasta_n.pdb
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\de_1_hasta_n.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\de_1_hasta_n\obj\Debug\net9.0\ref\de_1_hasta_n.dll

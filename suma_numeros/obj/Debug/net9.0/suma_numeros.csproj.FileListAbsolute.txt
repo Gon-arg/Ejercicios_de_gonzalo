@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\bin\Debug\net9.0\suma_numeros.exe
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\bin\Debug\net9.0\suma_numeros.deps.json
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\bin\Debug\net9.0\suma_numeros.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\bin\Debug\net9.0\suma_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\bin\Debug\net9.0\suma_numeros.pdb
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\suma_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\suma_numeros.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\suma_numeros.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\suma_numeros.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\suma_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\refint\suma_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\suma_numeros.pdb
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\suma_numeros.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\suma_numeros\obj\Debug\net9.0\ref\suma_numeros.dll

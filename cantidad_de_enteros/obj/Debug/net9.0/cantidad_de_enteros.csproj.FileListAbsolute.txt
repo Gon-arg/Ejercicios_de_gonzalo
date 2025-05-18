@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\bin\Debug\net9.0\cantidad_de_enteros.exe
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\bin\Debug\net9.0\cantidad_de_enteros.deps.json
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\bin\Debug\net9.0\cantidad_de_enteros.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\bin\Debug\net9.0\cantidad_de_enteros.dll
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\bin\Debug\net9.0\cantidad_de_enteros.pdb
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\cantidad_de_enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\cantidad_de_enteros.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\cantidad_de_enteros.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\cantidad_de_enteros.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\cantidad_de_enteros.dll
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\refint\cantidad_de_enteros.dll
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\cantidad_de_enteros.pdb
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\cantidad_de_enteros.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\cantidad_de_enteros\obj\Debug\net9.0\ref\cantidad_de_enteros.dll

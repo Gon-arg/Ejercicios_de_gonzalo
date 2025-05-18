@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\bin\Debug\net9.0\local_ropa_colores.exe
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\bin\Debug\net9.0\local_ropa_colores.deps.json
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\bin\Debug\net9.0\local_ropa_colores.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\bin\Debug\net9.0\local_ropa_colores.dll
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\bin\Debug\net9.0\local_ropa_colores.pdb
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\local_ropa_colores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\local_ropa_colores.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\local_ropa_colores.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\local_ropa_colores.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\local_ropa_colores.dll
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\refint\local_ropa_colores.dll
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\local_ropa_colores.pdb
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\local_ropa_colores.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\local_ropa_colores\obj\Debug\net9.0\ref\local_ropa_colores.dll

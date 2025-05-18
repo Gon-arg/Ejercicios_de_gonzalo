@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\bin\Debug\net9.0\rectangulo_vacio_por_dentro.exe
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\bin\Debug\net9.0\rectangulo_vacio_por_dentro.deps.json
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\bin\Debug\net9.0\rectangulo_vacio_por_dentro.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\bin\Debug\net9.0\rectangulo_vacio_por_dentro.dll
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\bin\Debug\net9.0\rectangulo_vacio_por_dentro.pdb
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\rectangulo_vacio_por_dentro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\rectangulo_vacio_por_dentro.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\rectangulo_vacio_por_dentro.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\rectangulo_vacio_por_dentro.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\rectangulo_vacio_por_dentro.dll
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\refint\rectangulo_vacio_por_dentro.dll
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\rectangulo_vacio_por_dentro.pdb
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\rectangulo_vacio_por_dentro.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\rectangulo_vacio_por_dentro\obj\Debug\net9.0\ref\rectangulo_vacio_por_dentro.dll

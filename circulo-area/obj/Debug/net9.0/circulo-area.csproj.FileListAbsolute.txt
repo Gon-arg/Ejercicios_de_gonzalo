@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\bin\Debug\net9.0\circulo-area.exe
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\bin\Debug\net9.0\circulo-area.deps.json
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\bin\Debug\net9.0\circulo-area.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\bin\Debug\net9.0\circulo-area.dll
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\bin\Debug\net9.0\circulo-area.pdb
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\circulo-area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\circulo-area.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\circulo-area.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\circulo-area.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\circulo-area.dll
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\refint\circulo-area.dll
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\circulo-area.pdb
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\circulo-area.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\circulo-area\obj\Debug\net9.0\ref\circulo-area.dll

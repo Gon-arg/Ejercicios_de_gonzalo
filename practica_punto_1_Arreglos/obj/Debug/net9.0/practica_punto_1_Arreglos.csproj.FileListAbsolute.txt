@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\bin\Debug\net9.0\practica_punto_1_Arreglos.exe
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\bin\Debug\net9.0\practica_punto_1_Arreglos.deps.json
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\bin\Debug\net9.0\practica_punto_1_Arreglos.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\bin\Debug\net9.0\practica_punto_1_Arreglos.dll
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\bin\Debug\net9.0\practica_punto_1_Arreglos.pdb
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\practica_punto_1_Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\practica_punto_1_Arreglos.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\practica_punto_1_Arreglos.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\practica_punto_1_Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\practica_punto_1_Arreglos.dll
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\refint\practica_punto_1_Arreglos.dll
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\practica_punto_1_Arreglos.pdb
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\practica_punto_1_Arreglos.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\practica_punto_1_Arreglos\obj\Debug\net9.0\ref\practica_punto_1_Arreglos.dll

@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\bin\Debug\net9.0\prueba_de_condicionales.exe
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\bin\Debug\net9.0\prueba_de_condicionales.deps.json
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\bin\Debug\net9.0\prueba_de_condicionales.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\bin\Debug\net9.0\prueba_de_condicionales.dll
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\bin\Debug\net9.0\prueba_de_condicionales.pdb
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\prueba_de_condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\prueba_de_condicionales.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\prueba_de_condicionales.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\prueba_de_condicionales.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\prueba_de_condicionales.dll
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\refint\prueba_de_condicionales.dll
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\prueba_de_condicionales.pdb
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\prueba_de_condicionales.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\prueba_de_condicionales\obj\Debug\net9.0\ref\prueba_de_condicionales.dll

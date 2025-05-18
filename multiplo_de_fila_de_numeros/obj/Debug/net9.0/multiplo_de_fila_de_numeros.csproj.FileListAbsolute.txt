@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\bin\Debug\net9.0\multiplo_de_fila_de_numeros.exe
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\bin\Debug\net9.0\multiplo_de_fila_de_numeros.deps.json
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\bin\Debug\net9.0\multiplo_de_fila_de_numeros.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\bin\Debug\net9.0\multiplo_de_fila_de_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\bin\Debug\net9.0\multiplo_de_fila_de_numeros.pdb
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\multiplo_de_fila_de_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\multiplo_de_fila_de_numeros.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\multiplo_de_fila_de_numeros.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\multiplo_de_fila_de_numeros.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\multiplo_de_fila_de_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\refint\multiplo_de_fila_de_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\multiplo_de_fila_de_numeros.pdb
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\multiplo_de_fila_de_numeros.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\multiplo_de_fila_de_numeros\obj\Debug\net9.0\ref\multiplo_de_fila_de_numeros.dll

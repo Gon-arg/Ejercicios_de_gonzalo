@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\bin\Debug\net9.0\Ejercicio_6_TP_5.exe
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\bin\Debug\net9.0\Ejercicio_6_TP_5.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\bin\Debug\net9.0\Ejercicio_6_TP_5.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\bin\Debug\net9.0\Ejercicio_6_TP_5.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\bin\Debug\net9.0\Ejercicio_6_TP_5.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\Ejercicio_6_TP_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\Ejercicio_6_TP_5.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\Ejercicio_6_TP_5.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\Ejercicio_6_TP_5.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\Ejercicio_6_TP_5.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\refint\Ejercicio_6_TP_5.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\Ejercicio_6_TP_5.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\Ejercicio_6_TP_5.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_6_TP_5\obj\Debug\net9.0\ref\Ejercicio_6_TP_5.dll

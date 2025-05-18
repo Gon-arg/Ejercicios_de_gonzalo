@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\bin\Debug\net9.0\suma_de_valores_y_su_promedio.exe
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\bin\Debug\net9.0\suma_de_valores_y_su_promedio.deps.json
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\bin\Debug\net9.0\suma_de_valores_y_su_promedio.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\bin\Debug\net9.0\suma_de_valores_y_su_promedio.dll
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\bin\Debug\net9.0\suma_de_valores_y_su_promedio.pdb
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\suma_de_valores_y_su_promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\suma_de_valores_y_su_promedio.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\suma_de_valores_y_su_promedio.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\suma_de_valores_y_su_promedio.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\suma_de_valores_y_su_promedio.dll
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\refint\suma_de_valores_y_su_promedio.dll
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\suma_de_valores_y_su_promedio.pdb
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\suma_de_valores_y_su_promedio.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\suma_de_valores_y_su_promedio\obj\Debug\net9.0\ref\suma_de_valores_y_su_promedio.dll

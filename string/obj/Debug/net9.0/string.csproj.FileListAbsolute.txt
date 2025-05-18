@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\string\bin\Debug\net9.0\string.exe
+C:\Users\estudiante\Documents\C# proyectos\string\bin\Debug\net9.0\string.deps.json
+C:\Users\estudiante\Documents\C# proyectos\string\bin\Debug\net9.0\string.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\string\bin\Debug\net9.0\string.dll
+C:\Users\estudiante\Documents\C# proyectos\string\bin\Debug\net9.0\string.pdb
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\string.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\string.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\string.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\string.dll
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\refint\string.dll
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\string.pdb
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\string.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\string\obj\Debug\net9.0\ref\string.dll

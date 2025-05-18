@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\bin\Debug\net9.0\Practica_Para_Parcial.exe
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\bin\Debug\net9.0\Practica_Para_Parcial.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\bin\Debug\net9.0\Practica_Para_Parcial.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\bin\Debug\net9.0\Practica_Para_Parcial.dll
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\bin\Debug\net9.0\Practica_Para_Parcial.pdb
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\Practica_Para_Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\Practica_Para_Parcial.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\Practica_Para_Parcial.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\Practica_Para_Parcial.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\Practica_Para_Parcial.dll
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\refint\Practica_Para_Parcial.dll
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\Practica_Para_Parcial.pdb
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\Practica_Para_Parcial.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Practica_Para_Parcial\obj\Debug\net9.0\ref\Practica_Para_Parcial.dll

@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\bin\Debug\net9.0\tipo_de_triangulo.exe
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\bin\Debug\net9.0\tipo_de_triangulo.deps.json
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\bin\Debug\net9.0\tipo_de_triangulo.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\bin\Debug\net9.0\tipo_de_triangulo.dll
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\bin\Debug\net9.0\tipo_de_triangulo.pdb
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\tipo_de_triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\tipo_de_triangulo.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\tipo_de_triangulo.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\tipo_de_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\tipo_de_triangulo.dll
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\refint\tipo_de_triangulo.dll
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\tipo_de_triangulo.pdb
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\tipo_de_triangulo.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\tipo_de_triangulo\obj\Debug\net9.0\ref\tipo_de_triangulo.dll

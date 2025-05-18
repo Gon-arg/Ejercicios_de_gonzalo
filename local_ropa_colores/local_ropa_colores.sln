@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "local_ropa_colores", "local_ropa_colores.csproj", "{68574D57-A988-175D-BEBE-BF9C8A333882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68574D57-A988-175D-BEBE-BF9C8A333882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68574D57-A988-175D-BEBE-BF9C8A333882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68574D57-A988-175D-BEBE-BF9C8A333882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68574D57-A988-175D-BEBE-BF9C8A333882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B5B5BC-5B51-4E99-A56C-D5A6EDC2EBE7}
+	EndGlobalSection
+EndGlobal

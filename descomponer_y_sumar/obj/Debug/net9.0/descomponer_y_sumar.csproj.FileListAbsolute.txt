@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\bin\Debug\net9.0\descomponer_y_sumar.exe
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\bin\Debug\net9.0\descomponer_y_sumar.deps.json
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\bin\Debug\net9.0\descomponer_y_sumar.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\bin\Debug\net9.0\descomponer_y_sumar.dll
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\bin\Debug\net9.0\descomponer_y_sumar.pdb
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\descomponer_y_sumar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\descomponer_y_sumar.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\descomponer_y_sumar.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\descomponer_y_sumar.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\descomponer_y_sumar.dll
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\refint\descomponer_y_sumar.dll
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\descomponer_y_sumar.pdb
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\descomponer_y_sumar.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\descomponer_y_sumar\obj\Debug\net9.0\ref\descomponer_y_sumar.dll

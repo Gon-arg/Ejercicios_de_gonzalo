@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\bin\Debug\net9.0\lado_cuadrado.exe
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\bin\Debug\net9.0\lado_cuadrado.deps.json
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\bin\Debug\net9.0\lado_cuadrado.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\bin\Debug\net9.0\lado_cuadrado.dll
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\bin\Debug\net9.0\lado_cuadrado.pdb
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\lado_cuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\lado_cuadrado.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\lado_cuadrado.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\lado_cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\lado_cuadrado.dll
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\refint\lado_cuadrado.dll
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\lado_cuadrado.pdb
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\lado_cuadrado.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\lado_cuadrado\obj\Debug\net9.0\ref\lado_cuadrado.dll

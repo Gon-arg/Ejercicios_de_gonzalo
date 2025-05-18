@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\bin\Debug\net9.0\perimetro_cuadrado.exe
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\bin\Debug\net9.0\perimetro_cuadrado.deps.json
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\bin\Debug\net9.0\perimetro_cuadrado.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\bin\Debug\net9.0\perimetro_cuadrado.dll
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\bin\Debug\net9.0\perimetro_cuadrado.pdb
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\perimetro_cuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\perimetro_cuadrado.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\perimetro_cuadrado.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\perimetro_cuadrado.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\perimetro_cuadrado.dll
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\refint\perimetro_cuadrado.dll
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\perimetro_cuadrado.pdb
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\perimetro_cuadrado.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\perimetro_cuadrado\obj\Debug\net9.0\ref\perimetro_cuadrado.dll

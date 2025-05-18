@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\bin\Debug\net9.0\30%_de_X.exe
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\bin\Debug\net9.0\30%_de_X.deps.json
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\bin\Debug\net9.0\30%_de_X.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\bin\Debug\net9.0\30%_de_X.dll
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\bin\Debug\net9.0\30%_de_X.pdb
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\30%_de_X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\30%_de_X.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\30%_de_X.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\30%_de_X.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\30%_de_X.dll
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\refint\30%_de_X.dll
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\30%_de_X.pdb
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\30%_de_X.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\30%_de_X\obj\Debug\net9.0\ref\30%_de_X.dll

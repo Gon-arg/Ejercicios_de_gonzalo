@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\bin\Debug\net9.0\tres_numeros.exe
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\bin\Debug\net9.0\tres_numeros.deps.json
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\bin\Debug\net9.0\tres_numeros.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\bin\Debug\net9.0\tres_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\bin\Debug\net9.0\tres_numeros.pdb
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\tres_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\tres_numeros.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\tres_numeros.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\tres_numeros.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\tres_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\refint\tres_numeros.dll
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\tres_numeros.pdb
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\tres_numeros.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros\obj\Debug\net9.0\ref\tres_numeros.dll

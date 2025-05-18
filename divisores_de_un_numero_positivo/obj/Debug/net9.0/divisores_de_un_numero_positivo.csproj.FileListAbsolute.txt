@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\bin\Debug\net9.0\divisores_de_un_numero_positivo.exe
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\bin\Debug\net9.0\divisores_de_un_numero_positivo.deps.json
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\bin\Debug\net9.0\divisores_de_un_numero_positivo.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\bin\Debug\net9.0\divisores_de_un_numero_positivo.dll
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\bin\Debug\net9.0\divisores_de_un_numero_positivo.pdb
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\divisores_de_un_numero_positivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\divisores_de_un_numero_positivo.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\divisores_de_un_numero_positivo.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\divisores_de_un_numero_positivo.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\divisores_de_un_numero_positivo.dll
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\refint\divisores_de_un_numero_positivo.dll
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\divisores_de_un_numero_positivo.pdb
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\divisores_de_un_numero_positivo.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\divisores_de_un_numero_positivo\obj\Debug\net9.0\ref\divisores_de_un_numero_positivo.dll

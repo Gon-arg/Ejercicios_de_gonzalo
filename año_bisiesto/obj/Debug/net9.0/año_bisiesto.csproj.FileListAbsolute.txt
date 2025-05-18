@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\bin\Debug\net9.0\año_bisiesto.exe
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\bin\Debug\net9.0\año_bisiesto.deps.json
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\bin\Debug\net9.0\año_bisiesto.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\bin\Debug\net9.0\año_bisiesto.dll
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\bin\Debug\net9.0\año_bisiesto.pdb
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\año_bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\año_bisiesto.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\año_bisiesto.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\año_bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\año_bisiesto.dll
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\refint\año_bisiesto.dll
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\año_bisiesto.pdb
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\año_bisiesto.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\año_bisiesto\obj\Debug\net9.0\ref\año_bisiesto.dll

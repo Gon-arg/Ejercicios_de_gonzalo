@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\bin\Debug\net9.0\edad_usuario.exe
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\bin\Debug\net9.0\edad_usuario.deps.json
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\bin\Debug\net9.0\edad_usuario.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\bin\Debug\net9.0\edad_usuario.dll
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\bin\Debug\net9.0\edad_usuario.pdb
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\edad_usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\edad_usuario.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\edad_usuario.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\edad_usuario.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\edad_usuario.dll
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\refint\edad_usuario.dll
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\edad_usuario.pdb
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\edad_usuario.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\edad_usuario\obj\Debug\net9.0\ref\edad_usuario.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "descomponer_y_sumar/1.0.0": {
+        "runtime": {
+          "descomponer_y_sumar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "descomponer_y_sumar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

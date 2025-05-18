@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\bin\Debug\net9.0\pintura_X_pared.exe
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\bin\Debug\net9.0\pintura_X_pared.deps.json
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\bin\Debug\net9.0\pintura_X_pared.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\bin\Debug\net9.0\pintura_X_pared.dll
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\bin\Debug\net9.0\pintura_X_pared.pdb
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\pintura_X_pared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\pintura_X_pared.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\pintura_X_pared.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\pintura_X_pared.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\pintura_X_pared.dll
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\refint\pintura_X_pared.dll
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\pintura_X_pared.pdb
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\pintura_X_pared.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\pintura_X_pared\obj\Debug\net9.0\ref\pintura_X_pared.dll

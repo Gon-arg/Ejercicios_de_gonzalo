@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\bin\Debug\net9.0\tarifa_de_agua.exe
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\bin\Debug\net9.0\tarifa_de_agua.deps.json
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\bin\Debug\net9.0\tarifa_de_agua.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\bin\Debug\net9.0\tarifa_de_agua.dll
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\bin\Debug\net9.0\tarifa_de_agua.pdb
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\tarifa_de_agua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\tarifa_de_agua.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\tarifa_de_agua.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\tarifa_de_agua.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\tarifa_de_agua.dll
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\refint\tarifa_de_agua.dll
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\tarifa_de_agua.pdb
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\tarifa_de_agua.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\tarifa_de_agua\obj\Debug\net9.0\ref\tarifa_de_agua.dll

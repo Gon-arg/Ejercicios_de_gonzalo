@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "numeros_mayores_o_menores/1.0.0": {
+        "runtime": {
+          "numeros_mayores_o_menores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "numeros_mayores_o_menores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

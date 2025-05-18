@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\bin\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.exe
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\bin\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.deps.json
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\bin\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\bin\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.dll
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\bin\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.pdb
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.dll
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\refint\tres_numeros_a_b_X_y_todos_los_multipos_de_x.dll
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.pdb
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\tres_numeros_a_b_X_y_todos_los_multipos_de_x.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\tres_numeros_a_b_X_y_todos_los_multipos_de_x\obj\Debug\net9.0\ref\tres_numeros_a_b_X_y_todos_los_multipos_de_x.dll

@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\bin\Debug\net9.0\num1_mayor_o_igual_num2.exe
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\bin\Debug\net9.0\num1_mayor_o_igual_num2.deps.json
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\bin\Debug\net9.0\num1_mayor_o_igual_num2.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\bin\Debug\net9.0\num1_mayor_o_igual_num2.dll
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\bin\Debug\net9.0\num1_mayor_o_igual_num2.pdb
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\num1_mayor_o_igual_num2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\num1_mayor_o_igual_num2.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\num1_mayor_o_igual_num2.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\num1_mayor_o_igual_num2.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\num1_mayor_o_igual_num2.dll
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\refint\num1_mayor_o_igual_num2.dll
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\num1_mayor_o_igual_num2.pdb
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\num1_mayor_o_igual_num2.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\num1_mayor_o_igual_num2\obj\Debug\net9.0\ref\num1_mayor_o_igual_num2.dll

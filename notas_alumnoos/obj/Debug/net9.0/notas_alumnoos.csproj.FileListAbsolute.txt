@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\bin\Debug\net9.0\notas_alumnoos.exe
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\bin\Debug\net9.0\notas_alumnoos.deps.json
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\bin\Debug\net9.0\notas_alumnoos.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\bin\Debug\net9.0\notas_alumnoos.dll
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\bin\Debug\net9.0\notas_alumnoos.pdb
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\notas_alumnoos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\notas_alumnoos.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\notas_alumnoos.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\notas_alumnoos.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\notas_alumnoos.dll
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\refint\notas_alumnoos.dll
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\notas_alumnoos.pdb
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\notas_alumnoos.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\notas_alumnoos\obj\Debug\net9.0\ref\notas_alumnoos.dll

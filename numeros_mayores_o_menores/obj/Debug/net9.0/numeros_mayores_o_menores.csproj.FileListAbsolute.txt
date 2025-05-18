@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\bin\Debug\net9.0\numeros_mayores_o_menores.exe
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\bin\Debug\net9.0\numeros_mayores_o_menores.deps.json
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\bin\Debug\net9.0\numeros_mayores_o_menores.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\bin\Debug\net9.0\numeros_mayores_o_menores.dll
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\bin\Debug\net9.0\numeros_mayores_o_menores.pdb
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\numeros_mayores_o_menores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\numeros_mayores_o_menores.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\numeros_mayores_o_menores.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\numeros_mayores_o_menores.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\numeros_mayores_o_menores.dll
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\refint\numeros_mayores_o_menores.dll
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\numeros_mayores_o_menores.pdb
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\numeros_mayores_o_menores.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\numeros_mayores_o_menores\obj\Debug\net9.0\ref\numeros_mayores_o_menores.dll

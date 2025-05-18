@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\bin\Debug\net9.0\C#_cond.exe
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\bin\Debug\net9.0\C#_cond.deps.json
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\bin\Debug\net9.0\C#_cond.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\bin\Debug\net9.0\C#_cond.dll
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\bin\Debug\net9.0\C#_cond.pdb
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\C#_cond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\C#_cond.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\C#_cond.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\C#_cond.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\C#_cond.dll
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\refint\C#_cond.dll
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\C#_cond.pdb
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\C#_cond.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\C#_cond\obj\Debug\net9.0\ref\C#_cond.dll

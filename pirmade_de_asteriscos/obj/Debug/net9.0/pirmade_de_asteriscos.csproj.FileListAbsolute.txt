@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\bin\Debug\net9.0\pirmade_de_asteriscos.exe
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\bin\Debug\net9.0\pirmade_de_asteriscos.deps.json
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\bin\Debug\net9.0\pirmade_de_asteriscos.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\bin\Debug\net9.0\pirmade_de_asteriscos.dll
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\bin\Debug\net9.0\pirmade_de_asteriscos.pdb
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\pirmade_de_asteriscos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\pirmade_de_asteriscos.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\pirmade_de_asteriscos.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\pirmade_de_asteriscos.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\pirmade_de_asteriscos.dll
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\refint\pirmade_de_asteriscos.dll
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\pirmade_de_asteriscos.pdb
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\pirmade_de_asteriscos.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\pirmade_de_asteriscos\obj\Debug\net9.0\ref\pirmade_de_asteriscos.dll

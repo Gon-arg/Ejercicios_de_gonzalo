@@ -1,0 +1,14 @@
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\bin\Debug\net9.0\tipos_de_socios.exe
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\bin\Debug\net9.0\tipos_de_socios.deps.json
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\bin\Debug\net9.0\tipos_de_socios.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\bin\Debug\net9.0\tipos_de_socios.dll
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\bin\Debug\net9.0\tipos_de_socios.pdb
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\tipos_de_socios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\tipos_de_socios.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\tipos_de_socios.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\tipos_de_socios.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\tipos_de_socios.dll
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\refint\tipos_de_socios.dll
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\tipos_de_socios.pdb
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\tipos_de_socios.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\tipos_de_socios\obj\Debug\net9.0\ref\tipos_de_socios.dll
