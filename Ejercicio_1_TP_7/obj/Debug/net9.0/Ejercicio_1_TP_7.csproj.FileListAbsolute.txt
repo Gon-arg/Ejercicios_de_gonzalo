@@ -1,0 +1,15 @@
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\bin\Debug\net9.0\Ejercicio_1_TP_7.exe
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\bin\Debug\net9.0\Ejercicio_1_TP_7.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\bin\Debug\net9.0\Ejercicio_1_TP_7.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\bin\Debug\net9.0\Ejercicio_1_TP_7.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\bin\Debug\net9.0\Ejercicio_1_TP_7.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.sourcelink.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\refint\Ejercicio_1_TP_7.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\Ejercicio_1_TP_7.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_TP_7\obj\Debug\net9.0\ref\Ejercicio_1_TP_7.dll

@@ -1,0 +1,15 @@
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\bin\Debug\net9.0\Practicar_Funciones.exe
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\bin\Debug\net9.0\Practicar_Funciones.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\bin\Debug\net9.0\Practicar_Funciones.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\bin\Debug\net9.0\Practicar_Funciones.dll
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\bin\Debug\net9.0\Practicar_Funciones.pdb
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.sourcelink.json
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.dll
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\refint\Practicar_Funciones.dll
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.pdb
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\Practicar_Funciones.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Funciones\obj\Debug\net9.0\ref\Practicar_Funciones.dll

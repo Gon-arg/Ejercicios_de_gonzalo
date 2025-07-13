@@ -1,0 +1,15 @@
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\bin\Debug\net9.0\Ejercicio_B_Teoria-12.exe
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\bin\Debug\net9.0\Ejercicio_B_Teoria-12.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\bin\Debug\net9.0\Ejercicio_B_Teoria-12.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\bin\Debug\net9.0\Ejercicio_B_Teoria-12.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\bin\Debug\net9.0\Ejercicio_B_Teoria-12.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.sourcelink.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\refint\Ejercicio_B_Teoria-12.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\Ejercicio_B_Teoria-12.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_B_Teoria-12\obj\Debug\net9.0\ref\Ejercicio_B_Teoria-12.dll

@@ -1,0 +1,15 @@
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\bin\Debug\net9.0\Practicar_Gonzalo.exe
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\bin\Debug\net9.0\Practicar_Gonzalo.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\bin\Debug\net9.0\Practicar_Gonzalo.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\bin\Debug\net9.0\Practicar_Gonzalo.dll
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\bin\Debug\net9.0\Practicar_Gonzalo.pdb
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.sourcelink.json
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.dll
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\refint\Practicar_Gonzalo.dll
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.pdb
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\Practicar_Gonzalo.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Practicar_Gonzalo\obj\Debug\net9.0\ref\Practicar_Gonzalo.dll

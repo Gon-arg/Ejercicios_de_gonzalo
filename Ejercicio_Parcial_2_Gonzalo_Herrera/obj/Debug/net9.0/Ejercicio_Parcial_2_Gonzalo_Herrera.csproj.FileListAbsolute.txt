@@ -1,0 +1,15 @@
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\bin\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.exe
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\bin\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\bin\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\bin\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\bin\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.sourcelink.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\refint\Ejercicio_Parcial_2_Gonzalo_Herrera.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\Ejercicio_Parcial_2_Gonzalo_Herrera.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_Parcial_2_Gonzalo_Herrera\obj\Debug\net9.0\ref\Ejercicio_Parcial_2_Gonzalo_Herrera.dll

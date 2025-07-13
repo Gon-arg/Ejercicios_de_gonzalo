@@ -1,0 +1,15 @@
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\bin\Debug\net9.0\Ejercicio_1_Teoria_09_.exe
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\bin\Debug\net9.0\Ejercicio_1_Teoria_09_.deps.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\bin\Debug\net9.0\Ejercicio_1_Teoria_09_.runtimeconfig.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\bin\Debug\net9.0\Ejercicio_1_Teoria_09_.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\bin\Debug\net9.0\Ejercicio_1_Teoria_09_.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.AssemblyInfoInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.AssemblyInfo.cs
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.sourcelink.json
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\refint\Ejercicio_1_Teoria_09_.dll
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.pdb
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\Ejercicio_1_Teoria_09_.genruntimeconfig.cache
+C:\Users\estudiante\Documents\C# proyectos\Ejercicio_1_Teoria_09_\obj\Debug\net9.0\ref\Ejercicio_1_Teoria_09_.dll
